@@ -1,4 +1,4 @@
-# ✋ AI Virtual Keyboard
+# AI Virtual Keyboard
 
 A touchless, hand-gesture-controlled virtual keyboard built with Python, OpenCV, and MediaPipe. Type, control your mouse, and autocomplete words — all without touching your keyboard.
 
